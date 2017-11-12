@@ -1,0 +1,5 @@
+C:\Users\Азат\Desktop\DictionaryWork\DictionaryWork\bin\Debug\DictionaryWork.exe
+C:\Users\Азат\Desktop\DictionaryWork\DictionaryWork\bin\Debug\DictionaryWork.pdb
+C:\Users\Азат\Desktop\DictionaryWork\DictionaryWork\obj\Debug\DictionaryWork.csprojResolveAssemblyReference.cache
+C:\Users\Азат\Desktop\DictionaryWork\DictionaryWork\obj\Debug\DictionaryWork.exe
+C:\Users\Азат\Desktop\DictionaryWork\DictionaryWork\obj\Debug\DictionaryWork.pdb

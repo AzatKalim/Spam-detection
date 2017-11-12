@@ -1,0 +1,749 @@
+<ham, <good: 50, bad: 1>>
+<go, <good: 7, bad: 4>>
+<until, <good: 2>>
+<jurong, <good: 1>>
+<point, <good: 1>>
+<crazy, <good: 1>>
+<available, <good: 1>>
+<only, <good: 2, bad: 5>>
+<in, <good: 5, bad: 5>>
+<bugis, <good: 1>>
+<n, <good: 2, bad: 1>>
+<great, <good: 3>>
+<world, <good: 1>>
+<la, <good: 1>>
+<e, <good: 1, bad: 1>>
+<buffet, <good: 1>>
+<cine, <good: 1>>
+<there, <good: 3, bad: 1>>
+<got, <good: 2>>
+<amore, <good: 1>>
+<wat, <good: 1>>
+<ok, <good: 2, bad: 1>>
+<lar, <good: 2>>
+<joking, <good: 2>>
+<wif, <good: 1>>
+<u, <good: 7, bad: 12>>
+<oni, <good: 1>>
+<dun, <good: 1>>
+<say, <good: 1>>
+<so, <good: 4, bad: 1>>
+<early, <good: 2>>
+<hor, <good: 1>>
+<c, <good: 1, bad: 4>>
+<already, <good: 2>>
+<then, <good: 4>>
+<nah, <good: 1>>
+<i, <good: 24, bad: 4>>
+<don, <good: 4>>
+<t, <good: 9, bad: 5>>
+<think, <good: 1, bad: 1>>
+<he, <good: 5>>
+<goes, <good: 1>>
+<to, <good: 15, bad: 36>>
+<usf, <good: 1>>
+<lives, <good: 1>>
+<around, <good: 2>>
+<here, <good: 2, bad: 1>>
+<though, <good: 2>>
+<even, <good: 3, bad: 1>>
+<my, <good: 7, bad: 1>>
+<brother, <good: 1>>
+<is, <good: 7, bad: 10>>
+<not, <good: 6, bad: 3>>
+<like, <good: 5, bad: 1>>
+<speak, <good: 1, bad: 2>>
+<with, <good: 6, bad: 6>>
+<me, <good: 5, bad: 1>>
+<they, <good: 1, bad: 1>>
+<treat, <good: 1>>
+<aids, <good: 1>>
+<patent, <good: 1>>
+<as, <good: 1, bad: 4>>
+<per, <good: 1, bad: 1>>
+<your, <good: 7, bad: 13>>
+<request, <good: 1>>
+<melle, <good: 1>>
+<oru, <good: 1>>
+<minnaminunginte, <good: 1>>
+<nurungu, <good: 1>>
+<vettam, <good: 1>>
+<has, <good: 2, bad: 1>>
+<been, <good: 2, bad: 4>>
+<set, <good: 1>>
+<callertune, <good: 1>>
+<for, <good: 7, bad: 10>>
+<all, <good: 5, bad: 2>>
+<callers, <good: 1>>
+<press, <good: 1>>
+<copy, <good: 1>>
+<friends, <good: 1>>
+<m, <good: 8, bad: 2>>
+<gonna, <good: 2>>
+<be, <good: 2, bad: 4>>
+<home, <good: 3>>
+<soon, <good: 1, bad: 1>>
+<and, <good: 7, bad: 7>>
+<want, <good: 4, bad: 2>>
+<talk, <good: 1>>
+<about, <good: 5, bad: 1>>
+<this, <good: 3, bad: 3>>
+<stuff, <good: 1, bad: 1>>
+<anymore, <good: 1>>
+<tonight, <good: 2, bad: 1>>
+<k, <good: 4>>
+<ve, <good: 2>>
+<cried, <good: 1>>
+<enough, <good: 2, bad: 1>>
+<today, <good: 1, bad: 2>>
+<searching, <good: 1>>
+<the, <good: 9, bad: 13>>
+<right, <good: 1>>
+<words, <good: 1>>
+<thank, <good: 1>>
+<you, <good: 20, bad: 22>>
+<breather, <good: 1>>
+<promise, <good: 1>>
+<wont, <good: 1>>
+<take, <good: 1>>
+<help, <good: 1>>
+<granted, <good: 1>>
+<will, <good: 2, bad: 2>>
+<fulfil, <good: 1>>
+<have, <good: 6, bad: 10>>
+<wonderful, <good: 1>>
+<a, <good: 11, bad: 21>>
+<blessing, <good: 1>>
+<at, <good: 4, bad: 1>>
+<times, <good: 1>>
+<date, <good: 1, bad: 2>>
+<on, <good: 5, bad: 9>>
+<sunday, <good: 1>>
+<oh, <good: 1>>
+<watching, <good: 1>>
+<eh, <good: 1>>
+<remember, <good: 2>>
+<how, <good: 4>>
+<spell, <good: 2>>
+<his, <good: 2>>
+<name, <good: 2, bad: 1>>
+<yes, <good: 2, bad: 2>>
+<did, <good: 6, bad: 1>>
+<v, <good: 2, bad: 2>>
+<naughty, <good: 1>>
+<make, <good: 2, bad: 1>>
+<wet, <good: 1>>
+<fine, <good: 1>>
+<if, <good: 4, bad: 5>>
+<that, <good: 8, bad: 3>>
+<s, <good: 7, bad: 5>>
+<way, <good: 3, bad: 1>>
+<feel, <good: 3>>
+<its, <good: 1, bad: 1>>
+<gota, <good: 1>>
+<b, <good: 3>>
+<seriously, <good: 1>>
+<going, <good: 3>>
+<try, <good: 1, bad: 3>>
+<months, <good: 1, bad: 1>>
+<ha, <good: 2>>
+<pay, <good: 1, bad: 1>>
+<first, <good: 2>>
+<when, <good: 3>>
+<da, <good: 1>>
+<stock, <good: 1>>
+<comin, <good: 1>>
+<aft, <good: 1>>
+<finish, <good: 1>>
+<lunch, <good: 1>>
+<str, <good: 1>>
+<down, <good: 2>>
+<lor, <good: 2>>
+<ard, <good: 1>>
+<smth, <good: 1>>
+<ur, <good: 1, bad: 9>>
+<ffffffffff, <good: 1>>
+<alright, <good: 1>>
+<no, <good: 2, bad: 8>>
+<can, <good: 3, bad: 1>>
+<meet, <good: 1, bad: 2>>
+<up, <good: 3, bad: 2>>
+<sooner, <good: 1>>
+<just, <good: 4, bad: 2>>
+<forced, <good: 1>>
+<myself, <good: 2>>
+<eat, <good: 1>>
+<slice, <good: 1>>
+<really, <good: 1, bad: 1>>
+<hungry, <good: 1>>
+<tho, <good: 1>>
+<sucks, <good: 1>>
+<mark, <good: 2>>
+<getting, <good: 1>>
+<worried, <good: 1>>
+<knows, <good: 1>>
+<sick, <good: 1>>
+<turn, <good: 1>>
+<pizza, <good: 1>>
+<lol, <good: 3>>
+<always, <good: 2>>
+<convincing, <good: 1>>
+<catch, <good: 1>>
+<bus, <good: 1>>
+<are, <good: 4, bad: 8>>
+<frying, <good: 1>>
+<an, <good: 1>>
+<egg, <good: 1>>
+<tea, <good: 1>>
+<eating, <good: 1>>
+<mom, <good: 1>>
+<left, <good: 1>>
+<over, <good: 1>>
+<dinner, <good: 1>>
+<do, <good: 5, bad: 1>>
+<love, <good: 2>>
+<back, <good: 1, bad: 1>>
+<amp, <good: 1>>
+<we, <good: 2, bad: 4>>
+<re, <good: 1, bad: 2>>
+<packing, <good: 1>>
+<car, <good: 2>>
+<now, <good: 2, bad: 9>>
+<ll, <good: 3, bad: 1>>
+<let, <good: 2>>
+<know, <good: 4, bad: 1>>
+<room, <good: 2>>
+<ahhh, <good: 1>>
+<work, <good: 1>>
+<vaguely, <good: 1>>
+<what, <good: 3>>
+<does, <good: 1>>
+<it, <good: 3, bad: 2>>
+<wait, <good: 1>>
+<still, <good: 1, bad: 1>>
+<clear, <good: 1>>
+<were, <good: 2>>
+<sure, <good: 2>>
+<being, <good: 1>>
+<sarcastic, <good: 1>>
+<or, <good: 2, bad: 14>>
+<why, <good: 1, bad: 1>>
+<x, <good: 2>>
+<doesn, <good: 1>>
+<live, <good: 1, bad: 3>>
+<us, <good: 1>>
+<yeah, <good: 2>>
+<was, <good: 3, bad: 1>>
+<apologetic, <good: 1>>
+<had, <good: 1, bad: 2>>
+<fallen, <good: 1>>
+<out, <good: 3, bad: 6>>
+<she, <good: 1>>
+<actin, <good: 1>>
+<spoilt, <good: 1>>
+<child, <good: 1>>
+<caught, <good: 1>>
+<till, <good: 1>>
+<but, <good: 4>>
+<won, <good: 1, bad: 6>>
+<doing, <good: 2>>
+<too, <good: 2>>
+<badly, <good: 1>>
+<cheers, <good: 1>>
+<tell, <good: 3>>
+<anything, <good: 4>>
+<fear, <good: 1>>
+<of, <good: 3, bad: 7>>
+<fainting, <good: 1>>
+<housework, <good: 1>>
+<quick, <good: 1>>
+<cuppa, <good: 1>>
+<yup, <good: 1>>
+<look, <good: 1>>
+<timings, <good: 1>>
+<msg, <good: 1, bad: 5>>
+<again, <good: 1, bad: 1>>
+<xuhui, <good: 1>>
+<learn, <good: 1>>
+<may, <good: 1, bad: 2>>
+<her, <good: 1, bad: 1>>
+<lesson, <good: 1>>
+<oops, <good: 1>>
+<roommate, <good: 1>>
+<done, <good: 1>>
+<see, <good: 2, bad: 2>>
+<letter, <good: 1>>
+<decide, <good: 1>>
+<hello, <good: 1>>
+<saturday, <good: 1>>
+<texting, <good: 1>>
+<d, <good: 1, bad: 1>>
+<decided, <good: 1>>
+<tomo, <good: 1>>
+<trying, <good: 1, bad: 2>>
+<invite, <good: 1>>
+<pls, <good: 1, bad: 1>>
+<ahead, <good: 1>>
+<watts, <good: 1>>
+<wanted, <good: 1>>
+<weekend, <good: 1>>
+<abiola, <good: 1>>
+<forget, <good: 1>>
+<need, <good: 1>>
+<crave, <good: 1>>
+<most, <good: 1>>
+<sweet, <good: 1>>
+<arabian, <good: 1>>
+<steed, <good: 1>>
+<mmmmmm, <good: 1>>
+<yummy, <good: 1>>
+<who, <good: 1, bad: 1>>
+<seeing, <good: 1>>
+<hope, <good: 1>>
+<man, <good: 1>>
+<well, <good: 1>>
+<endowed, <good: 1>>
+<am, <good: 2, bad: 2>>
+<lt, <good: 3>>
+<gt, <good: 3>>
+<inches, <good: 1>>
+<calls, <good: 1>>
+<messages, <good: 1>>
+<missed, <good: 1>>
+<didn, <good: 3>>
+<get, <good: 1, bad: 4>>
+<hep, <good: 1>>
+<immunisation, <good: 1>>
+<nigeria, <good: 1>>
+<fair, <good: 1>>
+<hopefully, <good: 1>>
+<tyler, <good: 1>>
+<could, <good: 2>>
+<maybe, <good: 1>>
+<ask, <good: 1>>
+<bit, <good: 1>>
+<stubborn, <good: 1>>
+<hospital, <good: 1>>
+<kept, <good: 1>>
+<telling, <good: 1>>
+<weak, <good: 1>>
+<sucker, <good: 1>>
+<hospitals, <good: 1>>
+<suckers, <good: 1>>
+<thinked, <good: 1>>
+<time, <good: 1>>
+<saw, <good: 1>>
+<class, <good: 1>>
+<gram, <good: 1>>
+<usually, <good: 1>>
+<runs, <good: 1>>
+<half, <good: 1>>
+<eighth, <good: 1>>
+<smarter, <good: 1>>
+<gets, <good: 1>>
+<almost, <good: 1>>
+<whole, <good: 1>>
+<second, <good: 1>>
+<fyi, <good: 1>>
+<ride, <good: 1>>
+<tomorrow, <good: 1, bad: 1>>
+<morning, <good: 1>>
+<crashing, <good: 1>>
+<our, <good: 1, bad: 8>>
+<place, <good: 1>>
+<wow, <good: 1>>
+<never, <good: 1>>
+<realized, <good: 1>>
+<embarassed, <good: 1>>
+<by, <good: 1, bad: 2>>
+<accomodations, <good: 1>>
+<thought, <good: 1>>
+<liked, <good: 1>>
+<since, <good: 1>>
+<best, <good: 1>>
+<seemed, <good: 1>>
+<happy, <good: 1>>
+<cave, <good: 1>>
+<sorry, <good: 2>>
+<more, <good: 1, bad: 3>>
+<give, <good: 1>>
+<offered, <good: 1>>
+<embarassing, <good: 1>>
+<mallika, <good: 1>>
+<sherawat, <good: 1>>
+<yesterday, <good: 1>>
+<find, <good: 1, bad: 4>>
+<url, <good: 1>>
+<call, <good: 1, bad: 17>>
+<later, <good: 1>>
+<meeting, <good: 1>>
+<where, <good: 1>>
+<reached, <good: 1>>
+<gauti, <good: 1>>
+<sehwag, <good: 1>>
+<odi, <good: 1>>
+<series, <good: 1>>
+<pick, <good: 1>>
+<burger, <good: 1>>
+<yourself, <good: 1>>
+<move, <good: 1>>
+<pain, <good: 1>>
+<killing, <good: 1>>
+<good, <good: 1>>
+<joke, <good: 1>>
+<girls, <good: 1>>
+<situation, <good: 1>>
+<seekers, <good: 1>>
+<spam, <bad: 48>>
+<free, <bad: 13>>
+<entry, <bad: 2>>
+<wkly, <bad: 3>>
+<comp, <bad: 1>>
+<win, <bad: 4>>
+<fa, <bad: 1>>
+<cup, <bad: 1>>
+<final, <bad: 2>>
+<tkts, <bad: 1>>
+<text, <bad: 9>>
+<receive, <bad: 5>>
+<question, <bad: 1>>
+<std, <bad: 2>>
+<txt, <bad: 11>>
+<rate, <bad: 1>>
+<apply, <bad: 3>>
+<freemsg, <bad: 2>>
+<hey, <bad: 2>>
+<darling, <bad: 1>>
+<week, <bad: 4>>
+<word, <bad: 2>>
+<some, <bad: 1>>
+<fun, <bad: 1>>
+<tb, <bad: 1>>
+<xxx, <bad: 1>>
+<chgs, <bad: 1>>
+<send, <bad: 5>>
+<rcv, <bad: 2>>
+<winner, <bad: 3>>
+<valued, <bad: 2>>
+<network, <bad: 3>>
+<customer, <bad: 6>>
+<selected, <bad: 4>>
+<receivea, <bad: 1>>
+<prize, <bad: 8>>
+<reward, <bad: 1>>
+<claim, <bad: 10>>
+<code, <bad: 5>>
+<valid, <bad: 3>>
+<hours, <bad: 1>>
+<mobile, <bad: 9>>
+<r, <bad: 2>>
+<entitled, <bad: 2>>
+<update, <bad: 2>>
+<latest, <bad: 2>>
+<colour, <bad: 2>>
+<mobiles, <bad: 2>>
+<camera, <bad: 3>>
+<co, <bad: 3>>
+<six, <bad: 1>>
+<chances, <bad: 1>>
+<cash, <bad: 4>>
+<from, <bad: 7>>
+<pounds, <bad: 2>>
+<cost, <bad: 1>>
+<day, <bad: 1>>
+<tsandcs, <bad: 1>>
+<reply, <bad: 8>>
+<hl, <bad: 1>>
+<info, <bad: 2>>
+<urgent, <bad: 4>>
+<membership, <bad: 1>>
+<jackpot, <bad: 1>>
+<www, <bad: 6>>
+<dbuk, <bad: 1>>
+<net, <bad: 1>>
+<lccltd, <bad: 1>>
+<pobox, <bad: 1>>
+<xxxmobilemovieclub, <bad: 1>>
+<use, <bad: 1>>
+<credit, <bad: 1>>
+<click, <bad: 1>>
+<wap, <bad: 3>>
+<link, <bad: 1>>
+<next, <bad: 1>>
+<message, <bad: 2>>
+<http, <bad: 2>>
+<com, <bad: 3>>
+<qjkgighjjgcbl, <bad: 1>>
+<england, <bad: 1>>
+<macedonia, <bad: 1>>
+<dont, <bad: 2>>
+<miss, <bad: 2>>
+<goals, <bad: 1>>
+<team, <bad: 1>>
+<news, <bad: 1>>
+<national, <bad: 1>>
+<eg, <bad: 2>>
+<wales, <bad: 1>>
+<scotland, <bad: 1>>
+<thanks, <bad: 1>>
+<subscription, <bad: 1>>
+<ringtone, <bad: 4>>
+<uk, <bad: 4>>
+<charged, <bad: 2>>
+<month, <bad: 1>>
+<please, <bad: 6>>
+<confirm, <bad: 1>>
+<replying, <bad: 1>>
+<rodger, <bad: 1>>
+<burns, <bad: 1>>
+<tried, <bad: 2>>
+<sms, <bad: 4>>
+<nokia, <bad: 2>>
+<camcorder, <bad: 2>>
+<delivery, <bad: 2>>
+<ac, <bad: 3>>
+<sptv, <bad: 1>>
+<new, <bad: 4>>
+<jersey, <bad: 1>>
+<devils, <bad: 1>>
+<detroit, <bad: 1>>
+<red, <bad: 1>>
+<wings, <bad: 1>>
+<play, <bad: 3>>
+<ice, <bad: 1>>
+<hockey, <bad: 1>>
+<correct, <bad: 1>>
+<incorrect, <bad: 1>>
+<end, <bad: 2>>
+<congrats, <bad: 1>>
+<year, <bad: 1>>
+<special, <bad: 3>>
+<cinema, <bad: 1>>
+<pass, <bad: 1>>
+<yours, <bad: 2>>
+<suprman, <bad: 1>>
+<etc, <bad: 1>>
+<pleased, <bad: 1>>
+<advise, <bad: 1>>
+<following, <bad: 1>>
+<recent, <bad: 1>>
+<review, <bad: 1>>
+<mob, <bad: 2>>
+<awarded, <bad: 4>>
+<bonus, <bad: 4>>
+<complimentary, <bad: 1>>
+<trip, <bad: 1>>
+<eurodisinc, <bad: 1>>
+<trav, <bad: 1>>
+<aco, <bad: 1>>
+<dis, <bad: 1>>
+<morefrmmob, <bad: 1>>
+<shracomorsglsuplt, <bad: 1>>
+<hear, <bad: 2>>
+<divorce, <bad: 1>>
+<barbie, <bad: 1>>
+<comes, <bad: 1>>
+<ken, <bad: 1>>
+<service, <bad: 5>>
+<representative, <bad: 2>>
+<between, <bad: 2>>
+<guaranteed, <bad: 5>>
+<waiting, <bad: 2>>
+<collected, <bad: 1>>
+<simply, <bad: 1>>
+<password, <bad: 1>>
+<mix, <bad: 1>>
+<verify, <bad: 2>>
+<usher, <bad: 1>>
+<britney, <bad: 1>>
+<fml, <bad: 1>>
+<po, <bad: 3>>
+<box, <bad: 2>>
+<gent, <bad: 1>>
+<contact, <bad: 5>>
+<last, <bad: 2>>
+<weekends, <bad: 2>>
+<draw, <bad: 3>>
+<shows, <bad: 3>>
+<specially, <bad: 2>>
+<holiday, <bad: 2>>
+<flights, <bad: 2>>
+<inc, <bad: 2>>
+<operator, <bad: 2>>
+<min, <bad: 1>>
+<private, <bad: 1>>
+<account, <bad: 1>>
+<statement, <bad: 1>>
+<unredeemed, <bad: 1>>
+<points, <bad: 1>>
+<identifier, <bad: 1>>
+<expires, <bad: 1>>
+<caller, <bad: 1>>
+<landline, <bad: 1>>
+<todays, <bad: 1>>
+<voda, <bad: 1>>
+<numbers, <bad: 1>>
+<ending, <bad: 1>>
+<award, <bad: 1>>
+<match, <bad: 1>>
+<quoting, <bad: 1>>
+<standard, <bad: 1>>
+<rates, <bad: 1>>
+<app, <bad: 1>>
+<sunshine, <bad: 1>>
+<quiz, <bad: 2>>
+<q, <bad: 1>>
+<top, <bad: 2>>
+<sony, <bad: 1>>
+<dvd, <bad: 1>>
+<player, <bad: 1>>
+<which, <bad: 1>>
+<country, <bad: 1>>
+<algarve, <bad: 1>>
+<ansr, <bad: 1>>
+<sp, <bad: 1>>
+<tyrone, <bad: 1>>
+<laid, <bad: 1>>
+<real, <bad: 2>>
+<dogging, <bad: 1>>
+<locations, <bad: 1>>
+<sent, <bad: 1>>
+<direct, <bad: 1>>
+<join, <bad: 2>>
+<largest, <bad: 1>>
+<bt, <bad: 1>>
+<txting, <bad: 1>>
+<gravel, <bad: 1>>
+<nt, <bad: 1>>
+<any, <bad: 2>>
+<msgs, <bad: 1>>
+<chat, <bad: 2>>
+<svc, <bad: 1>>
+<hardcore, <bad: 1>>
+<services, <bad: 1>>
+<nothing, <bad: 1>>
+<must, <bad: 2>>
+<age, <bad: 2>>
+<yr, <bad: 1>>
+<haven, <bad: 1>>
+<replied, <bad: 1>>
+<randy, <bad: 1>>
+<sexy, <bad: 2>>
+<female, <bad: 1>>
+<local, <bad: 1>>
+<luv, <bad: 1>>
+<netcollex, <bad: 1>>
+<ltd, <bad: 1>>
+<stop, <bad: 4>>
+<annoncement, <bad: 1>>
+<years, <bad: 1>>
+<arrange, <bad: 1>>
+<bootydelious, <bad: 1>>
+<f, <bad: 1>>
+<inviting, <bad: 1>>
+<friend, <bad: 1>>
+<frnd, <bad: 1>>
+<bangbabes, <bad: 1>>
+<order, <bad: 1>>
+<should, <bad: 1>>
+<download, <bad: 1>>
+<content, <bad: 3>>
+<goto, <bad: 1>>
+<bangb, <bad: 1>>
+<tv, <bad: 1>>
+<internet, <bad: 1>>
+<menu, <bad: 1>>
+<freephone, <bad: 1>>
+<unique, <bad: 1>>
+<august, <bad: 1>>
+<areyouunique, <bad: 1>>
+<collect, <bad: 1>>
+<tc, <bad: 1>>
+<biz, <bad: 1>>
+<dream, <bad: 1>>
+<partner, <bad: 1>>
+<career, <bad: 1>>
+<off, <bad: 1>>
+<flyng, <bad: 1>>
+<start, <bad: 1>>
+<horo, <bad: 1>>
+<followed, <bad: 1>>
+<star, <bad: 1>>
+<sign, <bad: 1>>
+<g, <bad: 1>>
+<aries, <bad: 1>>
+<someone, <bad: 1>>
+<flirt, <bad: 1>>
+<sam, <bad: 1>>
+<recd, <bad: 1>>
+<thirtyeight, <bad: 1>>
+<pence, <bad: 1>>
+<secret, <bad: 1>>
+<admirer, <bad: 1>>
+<looking, <bad: 1>>
+<reveal, <bad: 1>>
+<thinks, <bad: 1>>
+<congratulations, <bad: 1>>
+<cd, <bad: 1>>
+<vouchers, <bad: 2>>
+<music, <bad: 1>>
+<tncs, <bad: 1>>
+<ldew, <bad: 1>>
+<offer, <bad: 2>>
+<video, <bad: 1>>
+<handset, <bad: 1>>
+<anytime, <bad: 1>>
+<networks, <bad: 1>>
+<mins, <bad: 1>>
+<unlimited, <bad: 1>>
+<horny, <bad: 1>>
+<naked, <bad: 1>>
+<hot, <bad: 1>>
+<unsubscribe, <bad: 1>>
+<changed, <bad: 1>>
+<credits, <bad: 1>>
+<choose, <bad: 2>>
+<club, <bad: 2>>
+<wk, <bad: 1>>
+<singles, <bad: 1>>
+<chart, <bad: 1>>
+<each, <bad: 1>>
+<quality, <bad: 1>>
+<charge, <bad: 1>>
+<hmv, <bad: 1>>
+<genuine, <bad: 1>>
+<answer, <bad: 1>>
+<easy, <bad: 1>>
+<questions, <bad: 1>>
+<phone, <bad: 1>>
+<upgrade, <bad: 1>>
+<sim, <bad: 1>>
+<card, <bad: 1>>
+<loyalty, <bad: 1>>
+<ends, <bad: 1>>
+<blind, <bad: 1>>
+<aberdeen, <bad: 1>>
+<united, <bad: 1>>
+<kingdom, <bad: 1>>
+<check, <bad: 2>>
+<him, <bad: 1>>
+<img, <bad: 1>>
+<w, <bad: 1>>
+<dates, <bad: 1>>
+<hide, <bad: 1>>
+<themob, <bad: 1>>
+<newest, <bad: 1>>
+<selection, <bad: 1>>
+<games, <bad: 1>>
+<tones, <bad: 1>>
+<gossip, <bad: 1>>
+<babes, <bad: 1>>
+<sport, <bad: 1>>
+<keep, <bad: 1>>
+<fit, <bad: 1>>
+<funky, <bad: 1>>
+<smart, <bad: 1>>
+<weekly, <bad: 1>>
+<cs, <bad: 1>>
+<winnersclub, <bad: 1>>
+<december, <bad: 1>>
